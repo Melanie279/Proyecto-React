@@ -1,0 +1,35 @@
+{"users" :[
+    {
+      "id": 1,
+      "name": "DESARROLLO WEB",
+      "user": "Dev",
+      "mail": "calros@gmail.com",
+      "phone": "902121290",
+      "agency": "cusco"
+    },
+    {
+      "id": 2,
+      "name": "FRONTEND",
+      "user": "Dev2",
+      "mail": "123@gmail.com",
+      "phone": "1111111",
+      "agency": "cusco"
+    },
+    {
+      "id": 3,
+      "name": "DEVOPS",
+      "user": "Dev3",
+      "mail": "123fer@gmail.com",
+      "phone": "1235124531",
+      "agency": "cusco"
+    },
+    {
+      "id": 4,
+      "name": "BACKEND",
+      "user": "Dev4",
+      "mail": "pepeback@gmail.com",
+      "phone": "987654321",
+      "agency": "cusco"
+    }
+  ]
+}
