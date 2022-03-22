@@ -1,0 +1,19 @@
+{"perfiles" :[
+    {
+      "id": 1,
+      "name": "Perfil 1"
+    },
+    {
+      "id": 2,
+      "name": "Perfil 2"
+    },
+    {
+      "id": 3,
+      "name": "Perfil 3"
+    },
+    {
+      "id": 4,
+      "name": "Perfil 4"
+    }
+  ]
+}
