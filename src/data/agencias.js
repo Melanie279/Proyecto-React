@@ -1,4 +1,4 @@
-{"agencias" :[
+const agencias=[
     {
       "id": 1,
       "name": "Agencia Cusco"
@@ -16,4 +16,5 @@
       "name": "Agencia Arequipa"
     }
   ]
-}
+
+  export default agencias;

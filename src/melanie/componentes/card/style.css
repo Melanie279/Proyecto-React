@@ -1,0 +1,38 @@
+/* Style the tab */
+.card-container{
+    overflow: hidden;
+    /* border: 1px solid #ccc; */
+    background-color: #141b31;
+    border-radius: 5px;
+    padding: 0px;
+
+  }
+
+.card-container .card-container-text{
+  overflow: hidden;
+	width: 100%; 
+  display: inline-block;
+  margin:0px;
+}
+
+.card-text1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(250, 246, 246);
+  font-size: 0.9rem;    
+  float: left;
+  vertical-align: middle;
+  font-weight:700PX;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.card-text2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(250, 246, 246);
+  font-size: 0.7rem;    
+  float: right;
+  vertical-align: middle;
+  font-weight:700PX;
+  padding-left:20px;
+  padding-right:20px;
+}

@@ -1,0 +1,22 @@
+
+fieldset{
+    /* border: none; */
+    padding: 4px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 140px;
+
+}
+legend{
+    font-size: 1rem;
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 0.5rem;
+}
+input {
+    background-color: #fff;
+    border: 0px;
+    padding: 0px;
+    margin:0px;
+
+  }

@@ -1,0 +1,25 @@
+
+.btn-basic {
+    background-color: #141b31;    
+    border-style: none;
+    margin: 12px;
+    border-radius: 4px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.btn-text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 0.9rem;    
+    text-align: center;
+    vertical-align: middle;
+    padding:1px;
+    margin:10px;
+}
+
+
+.btn-basic:hover {
+    background-color:#5D6D7E ;
+    color: white;
+  }
